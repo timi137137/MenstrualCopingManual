@@ -1,0 +1,2 @@
+# MenstrualCopingManual
+一个给广大女生的经期应对手册
