@@ -1,0 +1,18 @@
+{
+  "name": "MenstrualCopingManual",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/timi137137/MenstrualCopingManual.git",
+  "author": "悠静萝莉 <i@mikuhl.cn>",
+  "license": "AGPLv3",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "markdown-it-task-lists": "^2.1.1",
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
